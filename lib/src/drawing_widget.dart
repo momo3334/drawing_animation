@@ -1,6 +1,4 @@
-import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'abstract_drawing_state.dart';
 import 'debug.dart';
 import 'drawing_state.dart';

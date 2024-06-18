@@ -1,9 +1,7 @@
 import 'dart:async';
 import 'dart:core';
-import 'dart:ui';
 import 'package:drawing_animation/drawing_animation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
 
